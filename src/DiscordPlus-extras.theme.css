@@ -27,6 +27,10 @@
   font-family: PixelPetit;
 }
 
+[hred*="bdns.dev/*"] {
+  color: purple;
+  font-family: PixelPetit;
+}
 
 /* put a nice logo in my server's channel list */
 .theme-dark [data-list-item-id="channels___554914403011526675"] .name_a08117,
